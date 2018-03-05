@@ -23,8 +23,13 @@ nowe
 ficzery
 na nowej
 branchy
+konflikt1
+xxxx
+cccc
+vvvv
+
 konflikt2
-qqqqqq
+inneeeeeeeeeeeee
 wwwwww
 
 
