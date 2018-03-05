@@ -15,3 +15,6 @@ nnn
 mmmm:wq
 xxxxxxxxxxxxxxxxxx
 vvvvvvvvvvvvvvvvv
+pppppp
+oooooo
+kkkkkk
