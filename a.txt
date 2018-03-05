@@ -23,3 +23,7 @@ nowe
 ficzery
 na nowej
 branchy
+konflikt1
+xxxx
+cccc
+vvvv
